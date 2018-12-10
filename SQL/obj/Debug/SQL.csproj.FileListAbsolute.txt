@@ -1,0 +1,10 @@
+C:\Users\quythuong1998\source\repos\On_Thi\SQL\bin\Debug\SQL.exe.config
+C:\Users\quythuong1998\source\repos\On_Thi\SQL\bin\Debug\SQL.exe
+C:\Users\quythuong1998\source\repos\On_Thi\SQL\bin\Debug\SQL.pdb
+C:\Users\quythuong1998\source\repos\On_Thi\SQL\obj\Debug\SQL.csprojAssemblyReference.cache
+C:\Users\quythuong1998\source\repos\On_Thi\SQL\obj\Debug\SQL.Form1.resources
+C:\Users\quythuong1998\source\repos\On_Thi\SQL\obj\Debug\SQL.Properties.Resources.resources
+C:\Users\quythuong1998\source\repos\On_Thi\SQL\obj\Debug\SQL.csproj.GenerateResource.cache
+C:\Users\quythuong1998\source\repos\On_Thi\SQL\obj\Debug\SQL.csproj.CoreCompileInputs.cache
+C:\Users\quythuong1998\source\repos\On_Thi\SQL\obj\Debug\SQL.exe
+C:\Users\quythuong1998\source\repos\On_Thi\SQL\obj\Debug\SQL.pdb

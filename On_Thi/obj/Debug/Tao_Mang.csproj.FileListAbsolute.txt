@@ -1,0 +1,10 @@
+C:\Users\quythuong1998\source\repos\On_Thi\On_Thi\bin\Debug\On_Thi.exe.config
+C:\Users\quythuong1998\source\repos\On_Thi\On_Thi\bin\Debug\On_Thi.exe
+C:\Users\quythuong1998\source\repos\On_Thi\On_Thi\bin\Debug\On_Thi.pdb
+C:\Users\quythuong1998\source\repos\On_Thi\On_Thi\obj\Debug\On_Thi.Form1.resources
+C:\Users\quythuong1998\source\repos\On_Thi\On_Thi\obj\Debug\On_Thi.Properties.Resources.resources
+C:\Users\quythuong1998\source\repos\On_Thi\On_Thi\obj\Debug\Tao_Mang.csproj.GenerateResource.cache
+C:\Users\quythuong1998\source\repos\On_Thi\On_Thi\obj\Debug\Tao_Mang.csproj.CoreCompileInputs.cache
+C:\Users\quythuong1998\source\repos\On_Thi\On_Thi\obj\Debug\On_Thi.exe
+C:\Users\quythuong1998\source\repos\On_Thi\On_Thi\obj\Debug\On_Thi.pdb
+C:\Users\quythuong1998\source\repos\On_Thi\On_Thi\obj\Debug\Tao_Mang.csprojAssemblyReference.cache
